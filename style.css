@@ -1,0 +1,11 @@
+.wrapper{height:100vh;border:2px solid red}
+.name{display:block;border:2px solid red;}
+.input{border:9px solid black;display: block;}
+.btn_out{display: flex;justify-content: center;margin:10px;
+border:none;}
+.btn_quiz{border-radius: 60px;background-color: white;
+padding:14px;color:blue;border:none;}
+.btn_quiz:hover{transition: 0.8s all;background-color:skyblue;color:black}
+optionsc{background-color: green;}
+.optionsc:hover{background-color:blueviolet;}
+.active{background-color: blueviolet;}
